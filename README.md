@@ -118,11 +118,11 @@ streamlit run Recommendation_Project.py
 ## 👨‍💻 Author
 
 **Pankaj Raju Badipahadi**
-*Parth Neware
-*Sanchit Satpaise
-*Usha Gudla
-*Vasanth
-*📊 Data Science | 🤖 Machine Learning
+* Parth Neware
+* Sanchit Satpaise
+* Usha Gudla
+* Vasanth
+* 📊 Data Science | 🤖 Machine Learning
 
 ---
 
